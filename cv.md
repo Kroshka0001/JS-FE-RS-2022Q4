@@ -1,12 +1,14 @@
 # __[rsschool-cv](https://kroshka0001.github.io/rsschool-cv/)__
 
-# __Julia Laptsinskaya__
+# __Yuliya Laptsinskaya__
 
 ## __Contacts__
-- __Location:__ Minsk, Belarus
-- __Phone:__ +375 29 893 23 14
+- __Location:__ Gdańsk, Poland
+- __Phone:__ +48 571 940 800
 - __Email:__ kroshka0001@gmail.com
 - __GitHub:__ @kroshka0001
+- __Discord:__ @Yuliya Laptsinskaya#2489
+- __LinkedIn:__ https://www.linkedin.com/in/yuliya-laptsinskaya-68b157b0/
 
 ## __About Me__
 
@@ -20,12 +22,16 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 - __MySQL__
 - __Photoshop__
 - __CorelDRAW__
+- __Figma Community__
 - __3ds Max__
 - __Flash__
 
 ## __Past projects__
 - __[www.street](https://kroshka0001.github.io/www.street)__
--
+- __[www_makets](https://photos.app.goo.gl/T26PkSvmghcUrnPn6)__
+- __[cv](https://kroshka0001.github.io/rsschool-cv)__
+- __[Travel](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q2/travel/)__
+- __[Portfolio](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL/portfolio/)__
 
 ## __Experience__
 
@@ -45,9 +51,9 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 ### __Courses:__
 - __Interior design in 3ds-Max C (Eshko)__
 - __DevOps Fundamentals:__ In Progress
-- __JavaScript Development (RS School):__ In Progress
+- __JS/FE Pre-School 2022Q4 (RS School):__ In Progress
 
 ## __languages__
 - __English level__ - A1
-- __Polish level__ - A1
-
+- __Polish level__ - B1
+- __Russian level__ - Native
