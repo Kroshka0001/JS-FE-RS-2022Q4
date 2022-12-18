@@ -184,13 +184,13 @@ a {
   text-align: left;
 }
 ul .numb {
-  list-style-image: url(../assets/img/phone.png);
+  list-style-image: url(assets/img/phone.png);
 }
 ul .adr {
-  list-style-image: url(../assets/img/maile.png);
+  list-style-image: url(assets/img/maile.png);
 }
 ul .mesto {
-  list-style-image: url(../assets/img/poit_karta.png);
+  list-style-image: url(assets/img/poit_karta.png);
 }
 main {
   display: block;
@@ -219,7 +219,7 @@ main {
   text-align: left;
 }
 .courses_icon {
-  background-image: url(../assets/img/courses_icon.png);
+  background-image: url(assets/img/courses_icon.png);
   width: 50px;
   height: 50px;
   margin: 10px 25px;
@@ -231,7 +231,7 @@ main {
   border-bottom: 5px solid #ffbd4a;
 }
 .skill_icon {
-  background-image: url(../assets/img/skill_icon.png);
+  background-image: url(assets/img/skill_icon.png);
   width: 50px;
   height: 50px;
   margin: 10px 25px;
@@ -276,7 +276,7 @@ main {
   padding: 25px 0px;
 }
 .lang_icon {
-  background-image: url(../assets/img/lang_icon.png);
+  background-image: url(assets/img/lang_icon.png);
   width: 50px;
   height: 50px;
   margin: 10px 25px;
@@ -309,7 +309,7 @@ main {
   margin-bottom: 15px;
 }
 .info_icon {
-  background-image: url(../assets/img/info_icon.png);
+  background-image: url(assets/img/info_icon.png);
   width: 50px;
   height: 50px;
   margin: 10px 25px;
@@ -326,7 +326,7 @@ main {
   padding-left: 100px;
 }
 .education_icon {
-  background-image: url(../assets/img/education_icon.png);
+  background-image: url(assets/img/education_icon.png);
   width: 50px;
   height: 50px;
   margin: 10px 25px;
@@ -347,7 +347,7 @@ main {
   border-bottom: 5px solid #ffbd4a;
 }
 .project_icon {
-  background-image: url(../assets/img/project_icon.png);
+  background-image: url(assets/img/project_icon.png);
   width: 50px;
   height: 50px;
   margin: 10px 25px;
@@ -474,7 +474,7 @@ main {
   margin-top: 5px;
 }
 .code_icon {
-  background-image: url(../assets/img/icons-code.png);
+  background-image: url(assets/img/icons-code.png);
   width: 50px;
   height: 50px;
   margin: 10px 25px;
