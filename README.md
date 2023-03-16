@@ -1,5 +1,5 @@
 # markdown
-#### https://kroshka0001.github.io/rsschool-cv/cv
+#### https://kroshka0001.github.io/JS-FE-RS-2022Q4/cv
 ----------------------------------------
 # CV
-#### https://kroshka0001.github.io/rsschool-cv/
+#### https://kroshka0001.github.io/JS-FE-RS-2022Q4/
