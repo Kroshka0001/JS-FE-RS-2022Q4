@@ -29,9 +29,12 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 ## __Past projects__
 - __[www.street](https://kroshka0001.github.io/www.street)__
 - __[www_makets](https://photos.app.goo.gl/T26PkSvmghcUrnPn6)__
-- __[cv](https://kroshka0001.github.io/rsschool-cv)__
+- __[cv](https://kroshka0001.github.io/JS-FE-RS-2022Q2/)__
 - __[Travel](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q2/travel/)__
 - __[Portfolio](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL/portfolio/)__
+- __[Plants](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q4/Plants/)__
+- __[Momentum](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q4/momentum/)__
+- __[cssBayan](https://kroshka0001.github.io/cssBayan/cssBayan/index.html)__
 
 ## __Experience__
 
@@ -49,9 +52,10 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 	
 	
 ### __Courses:__
-- __Interior design in 3ds-Max C (Eshko)__
-- __DevOps Fundamentals:__ In Progress
-- __JS/FE Pre-School 2022Q4 (RS School):__ In Progress
+- __Interior design in 3ds-Max C (Eshko): Certificate __
+- __DevOps Fundamentals:__ In Progress__
+- __JS/FE Pre-School 2022Q4 (RS School): Certificate__
+- __JavaScript/Front-end 2023Q1 (RS School): In Progress__
 
 ## __languages__
 - __English level__ - A1
